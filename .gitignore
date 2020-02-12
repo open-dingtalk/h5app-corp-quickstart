@@ -1,0 +1,14 @@
+target/
+backend/public
+backend/public/*
+
+*.log
+*.iml
+.idea
+.idea/*
+.DS_Store
+
+application-dev.properties
+node_modules/
+
+/Permanent_Data
