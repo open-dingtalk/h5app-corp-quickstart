@@ -1,6 +1,6 @@
 ## 启动步骤
 1. 将工程clone到本地:
-  `git clone https://github.com/open-dingtalk/xsh5app-corp-quickstart.git`
+  `git clone https://github.com/open-dingtalk/h5app-corp-quickstart.git`
 2. 使用IDE导入工程:
   比如eclipse点击`File->import`(推荐使用maven导入)
   IDEA点击`File->New->Project from Existing Sources...`, 文件编码都是UTF-8
