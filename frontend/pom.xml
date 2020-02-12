@@ -26,8 +26,8 @@
                     <installDirectory>target</installDirectory>
                     <nodeVersion>v12.15.0</nodeVersion>
                     <yarnVersion>v1.17.3</yarnVersion>
-                    <nodeDownloadRoot>https://npm.taobao.org/mirrors/node</nodeDownloadRoot>
-                    <yarnDownloadRoot>https://npm.taobao.org/mirrors/yarn</yarnDownloadRoot>
+                    <nodeDownloadRoot>https://npm.taobao.org/mirrors/node/</nodeDownloadRoot>
+                    <yarnDownloadRoot>https://npm.taobao.org/mirrors/yarn/</yarnDownloadRoot>
                 </configuration>
                 <executions>
                     <execution>

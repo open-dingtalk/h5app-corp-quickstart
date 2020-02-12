@@ -1,6 +1,6 @@
 target/
-backend/public
-backend/public/*
+backend/src/main/resources/public
+backend/src/main/resources/public/*
 
 *.log
 *.iml
