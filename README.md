@@ -6,7 +6,7 @@
   IDEA点击`File->New->Project from Existing Sources...`, 文件编码都是UTF-8
 3. OA后台创建微应用，并把工程的首页地址/index.html 填到微应用**首页地址**中。
 [如何创建微应用？](https://ding-doc.dingtalk.com/doc#/bgb96b/aw3h75)
-4. 打开子模块 backend 中 src/main/resources/application.properties 文件，填入企业微应用的 的APP_KEY，APP_SECRET, CORP_ID, AGENT_ID （参考文档：https://ding-doc.dingtalk.com/doc#/bgb96b/aw3h75）
+4. 打开子模块 backend 中 src/main/resources/application.properties 文件，填入企业微应用的 的APP_KEY，APP_SECRET, CORP_ID, AGENT_ID （参考文档：https://ding-doc.dingtalk.com/doc#/faquestions/dcubhu）
 ```
 dingtalk.app_key=APP_KEY
 dingtalk.app_secret=APP_SECRET
